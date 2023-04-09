@@ -1,0 +1,46 @@
+Class documentation
+<---- javadoc command: ---->
+f:\program files\java\jdk1.5.0_04\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-source
+1.5
+-noindex
+-notree
+-nohelp
+-nonavbar
+-d
+F:\BlueJ\projects\GuessingGameShell\doc
+-classpath
+F:\BlueJ\lib\junit.jar
+F:\BlueJ\projects\GuessingGameShell\Grid.java
+<---- end of javadoc command ---->
+Loading source file F:\BlueJ\projects\GuessingGameShell\Grid.java...
+Constructing Javadoc information...
+F:\BlueJ\projects\GuessingGameShell\Grid.java:40: cannot find symbol
+symbol  : class CoordinatePair
+location: class Grid
+	private CoordinatePair getRandomCoordinates()
+                ^
+F:\BlueJ\projects\GuessingGameShell\Grid.java:62: cannot find symbol
+symbol  : class CoordinatePair
+location: class Grid
+	public void setValue(CoordinatePair coords, char valueToSet)
+                             ^
+Standard Doclet version 1.5.0_04
+Building tree for all the packages and classes...
+Generating F:\BlueJ\projects\GuessingGameShell\doc\Grid.html...
+F:\BlueJ\projects\GuessingGameShell\Grid.java:53: warning - @param argument "the" is not a parameter name.
+F:\BlueJ\projects\GuessingGameShell\Grid.java:62: warning - @param argument "CoordinatePair" is not a parameter name.
+Generating F:\BlueJ\projects\GuessingGameShell\doc\package-frame.html...
+Generating F:\BlueJ\projects\GuessingGameShell\doc\package-summary.html...
+Generating F:\BlueJ\projects\GuessingGameShell\doc\constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating F:\BlueJ\projects\GuessingGameShell\doc\allclasses-frame.html...
+Generating F:\BlueJ\projects\GuessingGameShell\doc\allclasses-noframe.html...
+Generating F:\BlueJ\projects\GuessingGameShell\doc\index.html...
+Generating F:\BlueJ\projects\GuessingGameShell\doc\stylesheet.css...
+4 warnings

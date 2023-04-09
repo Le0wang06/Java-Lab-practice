@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=InputReader
+comment0.text=\r\n\ Class\ InputReader\ reads\ numbers\ typed\ at\ the\ keyboard.\ Uses\r\n\ the\ Scanner\ class\ from\ JDK\ 1.5.\r\n\ \r\n\ @author\ \ \ \ \ Colleen\ Penrowley\r\n\ @version\ \ \ \ \r\n
+comment1.params=
+comment1.target=InputReader()
+comment1.text=\r\n\ Create\ a\ new\ InputReader\ to\ read\ a\ coordinate\ pair.\r\n
+comment2.params=
+comment2.target=CoordinatePair\ getCoordinates()
+comment2.text=\r\n\ @return\ CoordinatePair\ with\ row\ and\ column\ typed\ by\ user,\ or\ null\r\n
+numComments=3
